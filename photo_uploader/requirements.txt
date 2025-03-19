@@ -5,3 +5,4 @@ python.dotenv==0.19.2
 flask-login
 flask-wtf
 flask-sqlalchemy
+Pillow
