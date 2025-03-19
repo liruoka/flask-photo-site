@@ -1,10 +1,12 @@
-# fly.toml app configuration file generated for photo-uploader on 2025-03-18T18:54:36+01:00
+# fly.toml app configuration file generated for photo-uploader-small-resonance-3420 on 2025-03-19T20:08:52+01:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'photo-uploader'
+app = 'photo-uploader-small-resonance-3420'
 primary_region = 'fra'
+
+[build]
 
 [http_service]
   internal_port = 8080
